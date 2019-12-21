@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+<!--构造器注入方式-->
+    <bean id="demo02dao" class="com.mulberry.demo01.dao.demo02daoImpl">
+        <property name="name">
+        <value>张三</value>
+    </property>
+        <property name="age">
+            <value>22</value>
+        </property>
+    </bean>
+    <bean id="demo02service" class="com.mulberry.demo01.service.demo02serviceImpl">
+        <constructor-arg ref="demo02dao"></constructor-arg>
+    </bean>
+</beans>

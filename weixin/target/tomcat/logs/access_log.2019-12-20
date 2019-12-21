@@ -1,0 +1,17 @@
+0:0:0:0:0:0:0:1 - - [20/Dec/2019:09:12:13 +0800] "GET /wx/dashboard.jsp HTTP/1.1" 404 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [20/Dec/2019:09:12:20 +0800] "GET /weixin/dashboard.jsp HTTP/1.1" 200 2602 http-bio-8080-exec-4 1597
+0:0:0:0:0:0:0:1 - - [20/Dec/2019:09:12:20 +0800] "GET /weixin/dashboard.jsp HTTP/1.1" 200 2602 http-bio-8080-exec-3 5805
+0:0:0:0:0:0:0:1 - - [20/Dec/2019:09:12:21 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-6 0
+0:0:0:0:0:0:0:1 - - [20/Dec/2019:09:12:32 +0800] "POST /weixin/loginuser.do HTTP/1.1" 200 2626 http-bio-8080-exec-8 1066
+0:0:0:0:0:0:0:1 - - [20/Dec/2019:09:12:37 +0800] "POST /weixin/loginuser.do HTTP/1.1" 200 30855 http-bio-8080-exec-1 121
+0:0:0:0:0:0:0:1 - - [20/Dec/2019:09:12:44 +0800] "GET /weixin/test.do?method=select_all HTTP/1.1" 200 28838 http-bio-8080-exec-1 91
+0:0:0:0:0:0:0:1 - - [20/Dec/2019:09:12:44 +0800] "GET /weixin/js/custom/tables.js HTTP/1.1" 304 - http-bio-8080-exec-1 63
+0:0:0:0:0:0:0:1 - - [20/Dec/2019:09:12:57 +0800] "GET /weixin/product.do HTTP/1.1" 200 28766 http-bio-8080-exec-8 17
+0:0:0:0:0:0:0:1 - - [20/Dec/2019:09:13:12 +0800] "GET /weixin/dashboard.jsp HTTP/1.1" 200 30855 http-bio-8080-exec-3 6
+0:0:0:0:0:0:0:1 - - [20/Dec/2019:09:14:32 +0800] "GET /weixin/dashboard.jsp HTTP/1.1" 200 2602 http-bio-8080-exec-1 6
+0:0:0:0:0:0:0:1 - - [20/Dec/2019:09:14:33 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [20/Dec/2019:09:14:46 +0800] "POST /weixin/loginuser.do HTTP/1.1" 200 30855 http-bio-8080-exec-10 15
+0:0:0:0:0:0:0:1 - - [20/Dec/2019:09:16:17 +0800] "GET /weixin/tables; HTTP/1.1" 404 979 http-bio-8080-exec-2 77
+0:0:0:0:0:0:0:1 - - [20/Dec/2019:09:16:17 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-3 0
+0:0:0:0:0:0:0:1 - - [20/Dec/2019:09:16:24 +0800] "GET /weixin/tables.jsp HTTP/1.1" 200 2602 http-bio-8080-exec-5 1421
+0:0:0:0:0:0:0:1 - - [20/Dec/2019:09:16:32 +0800] "POST /weixin/loginuser.do HTTP/1.1" 200 30855 http-bio-8080-exec-9 541
