@@ -8,21 +8,6 @@
     <%@ include file="/link/link_css.jsp"%>
     <%@ include file="/link/link_js.jsp"%>
 
-    <%--<link rel="stylesheet" href="css/style.default.css" type="text/css" />--%>
-    <%--<link rel="stylesheet" media="screen" href="css/style.ie9.css"/>--%>
-    <%--<link rel="stylesheet" media="screen" href="css/style.ie8.css"/>--%>
-    <%--<script type="text/javascript" src="js/plugins/jquery-1.7.min.js"></script>--%>
-    <%--<script type="text/javascript" src="js/plugins/jquery-ui-1.8.16.custom.min.js"></script>--%>
-    <%--<script type="text/javascript" src="js/plugins/jquery.cookie.js"></script>--%>
-    <%--<script type="text/javascript" src="js/plugins/jquery.uniform.min.js"></script>--%>
-    <%--<script type="text/javascript" src="js/plugins/jquery.flot.min.js"></script>--%>
-    <%--<script type="text/javascript" src="js/plugins/jquery.flot.resize.min.js"></script>--%>
-    <%--<script type="text/javascript" src="js/plugins/jquery.slimscroll.js"></script>--%>
-    <%--<script type="text/javascript" src="js/custom/general.js"></script>--%>
-    <%--<script type="text/javascript" src="js/custom/dashboard.js"></script>--%>
-    <%--<script language="javascript" type="text/javascript" src="js/plugins/excanvas.min.js"></script>--%>
-    <%--<script src="js/plugins/css3-mediaqueries.js"></script>--%>
-
 </head>
 
 <body class="withvernav">

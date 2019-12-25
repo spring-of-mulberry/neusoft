@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [24/Dec/2019:10:22:35 +0800] "GET /springMVCdemo02/test01 HTTP/1.1" 200 5 http-bio-8080-exec-2 307
+0:0:0:0:0:0:0:1 - - [24/Dec/2019:10:23:30 +0800] "GET /springMVCdemo02/test01 HTTP/1.1" 200 275 http-bio-8080-exec-2 221

@@ -1,0 +1,6 @@
+com\mulberry\jdbcTemp\entity\product.class
+com\mulberry\jdbcTemp\service\productServiceImpl.class
+com\mulberry\jdbcTemp\controller\productController.class
+com\mulberry\jdbcTemp\dao\productDao.class
+com\mulberry\jdbcTemp\service\productService.class
+com\mulberry\jdbcTemp\dao\productDaoImpl.class
